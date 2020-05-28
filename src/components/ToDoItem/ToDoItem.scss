@@ -1,0 +1,16 @@
+.todo-item {
+  list-style-type: none;
+  border: 1px #888888 solid;
+  box-shadow: 3px 3px 3px #888888;
+  margin-bottom: 20px;
+}
+
+.todo-item-label {
+  width: 100%;
+  padding: 5px;
+  display: block;
+}
+
+.todo-item-done {
+  background-color: #7fc18166;
+}
